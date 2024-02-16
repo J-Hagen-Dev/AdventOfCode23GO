@@ -1,0 +1,6 @@
+go 1.21.6
+
+use (
+	./day1-part2/go
+	./day1/go
+)
