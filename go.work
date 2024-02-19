@@ -6,4 +6,5 @@ use (
 	./day2-part2/go
 	./day2/go
 	./day3/go
+	./day3-part2/go
 )
